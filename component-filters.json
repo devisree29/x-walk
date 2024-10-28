@@ -47,7 +47,7 @@
       "indentation": [],
       "sr_script": ["superscript", "subscript"],
       "list": ["bullist", "numlist"],
-      "insert": ["link"],
+      "insert": ["link","image", "table"],
       "advanced": [],
       "extensions": [],
       "editor": ["removeformat"]
