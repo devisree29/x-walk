@@ -44,7 +44,7 @@
     "rte": {
       "format": ["bold", "italic", "underline"],
       "alignment": ["alignleft", "aligncenter", "alignright"],
-      "indentation": ["indent", "outdent"],
+      "indentation": [],
       "sr_script": ["superscript", "subscript"],
       "list": ["bullist", "numlist"],
       "insert": ["link"],
