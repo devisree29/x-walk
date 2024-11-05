@@ -39,14 +39,18 @@
       "title"
     ]
   },
-{
+ {
     "id": "text",
     "rte": {
       "format": ["bold", "italic", "underline"],
-      "alignment": ["alignleft", "alignright", "aligncenter"],
+      "alignment": ["alignleft", "aligncenter", "alignright"],
+      "indentation": ["indent", "outdent"],
       "sr_script": ["superscript", "subscript"],
       "list": ["bullist", "numlist"],
-      "insert": ["link"]
+      "insert": ["link"],
+      "advanced": [],
+      "extensions": [],
+      "editor": ["removeformat"]
     }
-  }   
+ }   
 ]
