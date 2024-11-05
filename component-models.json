@@ -146,7 +146,42 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
-      }
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "width",
+        "value": "",
+        "label": "Width"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "height",
+        "value": "",
+        "label": "Height"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "padding",
+        "value": "",
+        "label": "Cell Padding"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "spacing",
+        "value": "",
+        "label": "Cell Spacing"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "caption",
+        "value": "",
+        "label": "Caption"
+      }      
     ]
   },
   {
